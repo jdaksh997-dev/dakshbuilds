@@ -1,234 +1,242 @@
+
+<!--
+╔══════════════════════════════════════════════╗
+║        DAKSH // DEVELOPER COMMAND CENTER      ║
+║       Replace dakshbuilds with your username  ║
+╚══════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=DAKSH%20JAIN&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=B.Tech%20CSE%20%7C%20Compiling%20my%20future%20one%20segfault%20at%20a%20time&descAlignY=58&descSize=17" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,35:111827,70:312E81,100:06B6D4&text=DAKSH%20JAIN&fontColor=FFFFFF&fontSize=68&fontAlignY=42&desc=ENGINEERING%20THE%20FUTURE&descSize=17&descAlignY=62&animation=fadeIn&stroke=22D3EE&strokeWidth=1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=640&height=45&lines=%3E+Booting+Daksh.exe...;%3E+Learning+C+the+hard+way;%3E+Debugging+is+my+cardio;%3E+Building+in+public%2C+one+commit+at+a+time;%3E+Future+Software+Engineer+%5BLOADING+78%25%5D" alt="Typing SVG" />
-
-<br/>
-
-[
-
-![Visitors](https://komarev.com/ghpvc/?username=dakshbuilds&label=VISITORS&color=00ff9c&style=for-the-badge)
-
-](https://github.com/dakshbuilds)
-[
-
-![Followers](https://img.shields.io/github/followers/dakshbuilds?label=FOLLOW&style=for-the-badge&logo=github&color=0d1117)
-
-](https://github.com/dakshbuilds)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=1800&pause=650&color=22D3EE&center=true&vCenter=true&width=800&height=65&lines=%3E+BOOTING+DEVELOPER+SYSTEM...;%3E+COMPUTER+SCIENCE+%7C+SOFTWARE+ENGINEERING;%3E+BUILDING+IDEAS+INTO+REALITY;%3E+LEARN+FASTER.+BUILD+SMARTER.;%3E+THE+NEXT+COMMIT+STARTS+NOW." alt="Animated developer terminal"/>
 
 <br/>
 
-[
+<a href="https://github.com/dakshbuilds?tab=repositories">
+<img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20PROJECTS-22D3EE?style=for-the-badge&logoColor=black&labelColor=020617" />
+</a>
+<a href="https://github.com/dakshbuilds?tab=stars">
+<img src="https://img.shields.io/badge/%E2%98%85%20STARRED%20CODE-A78BFA?style=for-the-badge&labelColor=020617" />
+</a>
+<a href="https://github.com/dakshbuilds?tab=followers">
+<img src="https://img.shields.io/badge/%2B%20FOLLOW-EC4899?style=for-the-badge&labelColor=020617" />
+</a>
 
-![About](https://img.shields.io/badge/ABOUT-00ff9c?style=for-the-badge&labelColor=0d1117)
-
-](#about)
-[
-
-![Skill Tree](https://img.shields.io/badge/SKILL_TREE-00d4ff?style=for-the-badge&labelColor=0d1117)
-
-](#skill-tree)
-[
-
-![Quest Log](https://img.shields.io/badge/QUEST_LOG-ff9f1c?style=for-the-badge&labelColor=0d1117)
-
-](#quest-log)
-[
-
-![Missions](https://img.shields.io/badge/MISSIONS-ff4d6d?style=for-the-badge&labelColor=0d1117)
-
-](#missions)
-[
-
-![Stats](https://img.shields.io/badge/STATS-b388ff?style=for-the-badge&labelColor=0d1117)
-
-](#stats)
+<img src="https://komarev.com/ghpvc/?username=dakshbuilds&style=for-the-badge&color=0891B2&label=VISITORS" />
 
 </div>
 
 ---
 
-## ABOUT
-
-```c
-#include <stdio.h>
-#include <stdbool.h>
-
-typedef struct {
-    const char *name;
-    const char *role;
-    const char *main_language;
-    const char *next_up[3];
-    int         segfaults_survived;
-    bool        caffeine_powered;
-} Developer;
-
-int main(void) {
-    Developer daksh = {
-        .name               = "Daksh Jain",
-        .role               = "B.Tech CSE Student",
-        .main_language      = "C",
-        .next_up            = { "DSA", "Python + SQL", "Cloud" },
-        .segfaults_survived = 999,   // and counting
-        .caffeine_powered   = true
-    };
-
-    while (daksh.role) {
-        learn();
-        build();
-        break_things();
-        debug();
-        // repeat. never stop.
-    }
-    return 0;
-}
-```
-
-<details>
-<summary><b>🔓 CLICK TO UNLOCK: My rules of engagement</b></summary>
-<br/>
-
-1. **Build > binge.** A tutorial finished means nothing until I've built something with it.
-2. **Debug before Googling.** Read the error. Then read it again.
-3. **Ship small, ship often.** Ugly and working beats perfect and imaginary.
-4. **Consistency beats intensity.** Show up daily, even for 30 minutes.
-
-</details>
-
-<details>
-<summary><b>🥚 CLICK IF YOU DARE: Secret level</b></summary>
-<br/>
+## ▌01 — SYSTEM IDENTITY
 
 ```text
-> sudo make me a sandwich
-daksh is not in the sudoers file. This incident will be reported.
+┌───────────────────────────────────────────────┐
+│  USER       : Daksh Jain                      │
+│  DESIGNATION: CSE STUDENT                     │
+│  MODE       : LEARN / BUILD / EXPERIMENT      │
+│  FOCUS      : SOFTWARE + COMPUTER SCIENCE     │
+│  OBJECTIVE  : TURN KNOWLEDGE INTO PRODUCTS    │
+└───────────────────────────────────────────────┘
 ```
 
-You found the easter egg. Go star a repo, you deserve it. ⭐
+> Building skills one commit at a time. Every project is an experiment; every bug is a lesson.
+
+- 🎓 Computer Science Engineering student
+- 💻 Learning programming, debugging, and software development
+- 🧠 Developing problem-solving and DSA fundamentals
+- ☁️ Exploring cloud computing and distributed systems
+- 🚀 Interested in useful applications and open-source development
+
+## ▌02 — INTERACTIVE TERMINAL
+
+<details>
+<summary><b>▶ ./about-me.sh — Execute profile briefing</b></summary>
+
+```bash
+$ whoami
+Daksh Jain
+
+$ cat mission.txt
+Build practical software.
+Understand computer science deeply.
+Become a capable software engineer.
+
+$ cat current_focus.txt
+C programming
+Git and GitHub
+Problem-solving
+Project development
+
+$ cat philosophy.txt
+Consistency > hype
+Understanding > memorization
+Building > just watching tutorials
+
+$ system_status
+Learning in progress...
+```
 
 </details>
 
----
+<details>
+<summary><b>▶ ./help.sh — Explore this profile</b></summary>
 
-## SKILL TREE
+| Command | Action |
+|---|---|
+| `./projects` | Browse repositories |
+| `./skills` | Explore the tech stack |
+| `./stats` | View GitHub activity |
+| `./roadmap` | Expand learning goals |
+
+These are conceptual commands represented as a profile menu, not executable shell commands.
+
+</details>
+
+## ▌03 — NEURAL TECH STACK
 
 <div align="center">
 
-**⚔️ Equipped**
+**CURRENT TOOLKIT**
 
-<img src="https://skillicons.dev/icons?i=c,git,github,linux,vscode&theme=dark" alt="equipped skills" />
+<img src="https://skillicons.dev/icons?i=c,git,github,vscode&theme=dark" alt="Current toolkit"/>
 
-**🔒 Unlocking soon**
+**FUTURE EXPANSION**
 
-<img src="https://skillicons.dev/icons?i=python,mysql,aws,docker&theme=dark" alt="upcoming skills" />
+<img src="https://skillicons.dev/icons?i=python,linux,html,css,js,react,nodejs,mysql,docker,aws&theme=dark" alt="Future learning targets"/>
 
 </div>
 
-```text
-SKILL                     PROGRESS               LEVEL
-────────────────────────────────────────────────────────
-C Programming             [██████░░░░]  60%      Apprentice
-Data Structures & Algo    [███░░░░░░░]  30%      Rookie
-Git & GitHub              [█████░░░░░]  50%      Apprentice
-Problem Solving           [████░░░░░░]  40%      Rookie
-Python                    [█░░░░░░░░░]  10%      Locked
-SQL                       [█░░░░░░░░░]  10%      Locked
-Cloud Computing           [░░░░░░░░░░]   0%      Locked
-```
+<details>
+<summary><b>▸ Technology progression</b></summary>
 
----
-
-## QUEST LOG
-
-```text
-ACTIVE QUEST ▶ Conquer C pointers and memory management
-```
-
-**ACT I: Foundations**
-- [ ] Master C programming fundamentals
+- [ ] Strengthen C programming
+- [ ] Master Git fundamentals
 - [ ] Learn data structures and algorithms
-- [ ] Practice coding problems consistently
-
-**ACT II: Expansion**
 - [ ] Learn Python and SQL
-- [ ] Build practical projects
+- [ ] Build web applications
+- [ ] Explore Linux and networking
+- [ ] Learn cloud infrastructure
 
-**ACT III: Endgame**
-- [ ] Explore cloud computing
-- [ ] Contribute to open source
+The future-expansion row shows technologies to explore, not verified proficiency.
 
-> 💬 *"Every expert was once a beginner who refused to quit."*
+</details>
 
----
-
-## MISSIONS
-
-| Mission | Status | Objective |
-|:--|:--:|:--|
-| 🧪 **C Programming Practice** | 
-
-![](https://img.shields.io/badge/IN_PROGRESS-00ff9c?style=flat-square)
-
- | Programs plus the explanations behind them |
-| ⚔️ **DSA Practice** | 
-
-![](https://img.shields.io/badge/IN_PROGRESS-00ff9c?style=flat-square)
-
- | Coding problems and algorithms |
-| 🌐 **Developer Portfolio** | 
-
-![](https://img.shields.io/badge/LOCKED-ff4d6d?style=flat-square)
-
- | A personal website showcasing my work |
-
-<!-- When a repo goes live, link it, e.g. | [🧪 **C Programming Practice**](https://github.com/dakshbuilds/REPO-NAME) | -->
-
-*Mission links drop here as each project goes live. Stay tuned.* 📡
-
----
-
-## STATS
+## ▌04 — LIVE SYSTEM TELEMETRY
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=dakshbuilds&theme=tokyonight&hide_border=true" alt="streak" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dakshbuilds&show_icons=true&hide_border=true&bg_color=050816&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github&include_all_commits=true" alt="GitHub overview"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dakshbuilds&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshbuilds&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshbuilds&layout=compact&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E2E8F0" alt="Language statistics"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dakshbuilds&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dakshbuilds&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dakshbuilds/dakshbuilds/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dakshbuilds/dakshbuilds/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/dakshbuilds/dakshbuilds/output/github-snake.svg" />
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dakshbuilds&bg_color=050816&color=22D3EE&line=A78BFA&point=F472B6&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY" alt="Contribution activity graph"/>
 
 </div>
 
----
-
-## CONTACT
+## ▌05 — PROJECT HOLOGRAMS
 
 <div align="center">
 
-[
+<a href="https://github.com/dakshbuilds/c-programming-practice">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dakshbuilds&repo=c-programming-practice&theme=tokyonight&hide_border=true" alt="C programming repository"/>
+</a><a href="https://github.com/dakshbuilds/dsa-practice">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dakshbuilds&repo=dsa-practice&theme=tokyonight&hide_border=true" alt="DSA repository"/>
+</a>
 
-![GitHub](https://img.shields.io/badge/GITHUB-dakshbuilds-181717?style=for-the-badge&logo=github)
+</div>
 
-](https://github.com/dakshbuilds)
+<details>
+<summary><b>▸ PROJECT 001 — C PROGRAMMING LAB</b></summary>
 
-<!-- Add LinkedIn / email / portfolio badges here when you have them -->
+**Mission:** Build a documented collection of C programs.
 
-<br/>
+- Functions, arrays, pointers, and strings
+- Input/output and problem-solving
+- Code explanations and sample outputs
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=520&lines=Learn.+Build.+Improve.+Repeat.+%F0%9F%9A%80;while(alive)+%7B+code()%3B+%7D" alt="footer typing" />
+**Status:** Planned until the repository contains real work.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
+</details>
+
+<details>
+<summary><b>▸ PROJECT 002 — DSA TRAINING ARENA</b></summary>
+
+**Mission:** Build a searchable collection of algorithmic solutions.
+
+- Problem statement and approach
+- Time and space complexity
+- Edge cases and test examples
+
+**Status:** Planned.
+
+</details>
+
+<details>
+<summary><b>▸ PROJECT 003 — DEVELOPER PORTFOLIO</b></summary>
+
+**Mission:** Build a separate interactive portfolio website.
+
+- Animated landing page
+- Project filtering
+- Dark/light theme
+- Live demos and documentation
+
+**Status:** Planned.
+
+</details>
+
+## ▌06 — CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dakshbuilds&theme=tokyonight&hide_border=true&background=050816&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE" alt="Contribution streak"/>
+
+</div>
+
+<details>
+<summary><b>▸ Unlock the next level</b></summary>
+
+**LEVEL 01 — FOUNDATIONS**
+- [ ] Write and document C programs
+- [ ] Learn Git commits and branches
+- [ ] Create useful repository READMEs
+
+**LEVEL 02 — PROBLEM SOLVER**
+- [ ] Practice DSA regularly
+- [ ] Write tests for projects
+- [ ] Understand time complexity
+
+**LEVEL 03 — BUILDER**
+- [ ] Ship a complete application
+- [ ] Deploy a portfolio website
+- [ ] Automate checks using GitHub Actions
+
+**LEVEL 04 — CONTRIBUTOR**
+- [ ] Explore open-source projects
+- [ ] Submit a meaningful pull request
+- [ ] Collaborate through issues and code reviews
+
+</details>
+
+## ▌07 — TRANSMISSION CHANNEL
+
+<div align="center">
+
+<a href="https://github.com/dakshbuilds">
+<img src="https://img.shields.io/badge/GITHUB-SOURCE_CODE-22D3EE?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" alt="Source code"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,50:312E81,100:0891B2&animation=fadeIn" width="100%" alt="Animated footer"/>
+
+### `END OF TRANSMISSION`
+
+**THE MISSION CONTINUES.**
+
+`[ LEARN ]` → `[ BUILD ]` → `[ TEST ]` → `[ SHIP ]` → `[ REPEAT ]`
 
 </div>
