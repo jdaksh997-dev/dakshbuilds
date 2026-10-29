@@ -240,3 +240,27 @@ The future-expansion row shows technologies to explore, not verified proficiency
 `[ LEARN ]` → `[ BUILD ]` → `[ TEST ]` → `[ SHIP ]` → `[ REPEAT ]`
 
 </div>
+
+
+
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
+    />
+    <img
+      alt="Animated GitHub contribution snake"
+      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
